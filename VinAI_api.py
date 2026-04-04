@@ -133,7 +133,7 @@ print("Kết quả JSON:", response.json())
 
 import requests
 
-# 1. Dán đường link Pinggy của ông vào đây và thêm đuôi /predict
+# 1. # YÊU CẦU: Thầy vui lòng thay thế <link-pinggy-moi> bằng URL được cấp từ Terminal
 PUBLIC_API_URL = "https://sgsny-34-125-202-207.run.pinggy-free.link/predict"
 
 # 2. Dữ liệu thử nghiệm số 2 (Đề bài yêu cầu test ít nhất 2 dữ liệu đầu vào)

@@ -1,0 +1,13 @@
+# Web Framework
+fastapi
+uvicorn
+pydantic
+nest-asyncio
+
+# AI & Deep Learning
+transformers
+torch
+omegaconf
+
+# Testing
+requests

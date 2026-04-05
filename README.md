@@ -57,4 +57,4 @@ print(response.json())
 ```
 
 ## 7. Liên kết Video Demo
-* **Video Demo toàn bộ quá trình chạy hệ thống:** [Chèn link video YouTube của Quang vào đây]
+* **Video Demo toàn bộ quá trình chạy hệ thống:** [https://youtu.be/scP3ZYsDl8k](https://youtu.be/scP3ZYsDl8k)

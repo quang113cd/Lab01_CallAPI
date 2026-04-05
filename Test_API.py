@@ -1,7 +1,7 @@
 import requests
 
 # Đường dẫn đến server FastAPI(đang chạy local)
-BASE_URL = "http://jkdrt-136-109-107-52.run.pinggy-free.link"
+BASE_URL = "http://smxir-136-109-107-52.run.pinggy-free.link"
 
 def test_health_check():
     print("[1] Đang kiểm tra trạng thái API (/health)...")
@@ -18,9 +18,11 @@ def test_predict():
     
     # Hai câu test liên quan đến bối cảnh Smart Tourism
     test_cases = [
-        "The seafood here is very fresh and delicious.",
-        "I want to find atraditional museum in Da Nang.",
-        "Banh mi doesn't appeal to me"
+        # "The seafood here is very fresh and delicious.",
+        # "I want to find atraditional museum in Da Nang.",
+        # "Banh mi doesn't appeal to me",
+        "Cao lau is really delicious",
+        "I tried Cao Lau 2 hours ago"
     ]
 
     for i, text in enumerate(test_cases, 1):

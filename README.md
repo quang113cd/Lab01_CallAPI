@@ -1,7 +1,7 @@
 # Hệ Thống API VinAI - Dịch Thuật Anh-Việt
 
 ## 1. Thông tin sinh viên
-* **Họ và tên:** Công Quang
+* **Họ và tên:** Trần Công Quang
 * **Mã sinh viên:** 24120221
 * **Trường:** University of Science, VNU-HCM
 * **Môn học:** Tư duy tính toán (Computational Thinking) - Lab 1

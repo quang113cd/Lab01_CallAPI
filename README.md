@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ## 5. Hướng dẫn chạy chương trình
 Hệ thống được thiết kế để chạy trên môi trường Google Colab nhằm tận dụng cấu hình máy chủ mạnh:
-1. Upload file `API.ipynb` lên Google Colab và đảm bảo đã bật Runtime là **T4 GPU**.
+1. Upload file `VinAI_API.ipynb` lên Google Colab và đảm bảo đã bật Runtime là **T4 GPU**.
 2. Thực thi (Run) toàn bộ các ô code từ trên xuống dưới để cài đặt, nạp mô hình và khởi chạy FastAPI server tại cổng `8000`.
 3. Mở cửa sổ **Terminal** trên Colab và chạy lệnh sau để lấy đường dẫn Public thông qua Pinggy:
    ```bash
